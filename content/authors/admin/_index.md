@@ -11,7 +11,7 @@ role: Postdoctoral Scholar
 # Organizations/Affiliations
 organizations:
 - name: Lawrence Berkeley National Laboratory
-  url: "lbl.gov"
+  url: "https://www.lbl.gov"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is on the understanding structural/mechanistic origins of the degradation behavior of battery material during electrochemical cycles
