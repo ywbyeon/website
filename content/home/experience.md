@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "In my career,"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral researcher (PI: Dr. Haegyum Kim and Dr. Peter Ercius)"
+  company = "Lawrence Berkeley National Laboratory"
+  company_url = "https://www.lbl.gov"
+  location = "California, USA"
+  date_start = "2020-03-10"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Haegyum Kim Group, Materials Sciences Division
+ 
+  * Analyze on the electrochemical and structural properties of buried interphase compounds between Li metal and sulfide SSEs
+  * Synthesize and Characterize catalyst supporting materials for PEMFC
+  * Advanced analysis of the battery materials using electron microscopy (FIB, TEM)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant (PI: Dr. Jae-Pyoung Ahn and Prof Jae-Chul Lee)"
+  team = "Electron Microscopy Group, Advanced Analysis Center"
+  company = "Korea Institute of Science and Technology"
+  company_url = "https://kist.re.kr"
+  location = "Seoul, Korea"
+  date_start = "2013-05-01"
+  date_end = "2020-02-28"
+  description = """
+  
+  * Studied various TEM functions and analytical techniques 
+  * Developed an airtight sample transfer system to characterize air-sensitive materials 
+  * Pioneered the correlative analysis of battery electrode materials by using various analytical instruments (XRD, XPS, SEM, TEM, EDS, EELS, and APT) 
+  * Observed the formation and growth behavior of SEI layer during fast charging/discharging"""
 
 +++
