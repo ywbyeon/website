@@ -18,14 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral researcher (PI: Dr. Haegyum Kim and Dr. Peter Ercius)"
+  title = "Postdoctoral researcher"
   company = "Lawrence Berkeley National Laboratory"
   company_url = "https://www.lbl.gov"
   location = "California, USA"
   date_start = "2020-03-10"
   date_end = ""
   description = """
-  #### Haegyum Kim Group, Materials Sciences Division
+  ##### Haegyum Kim Group, Materials Sciences Division
+  ##### (P.I.: Dr. Haegyum Kim and Dr. Peter Ercius)
  
   * Analyzed on the electrochemical and structural properties of buried interphase compounds between Li metal and sulfide SSEs
   * Synthesized and Characterized catalyst supporting materials for PEMFC
@@ -33,14 +34,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Assistant (PI: Dr. Jae-Pyoung Ahn and Prof Jae-Chul Lee)"
+  title = "Research Assistant"
   company = "Korea Institute of Science and Technology"
   company_url = "https://kist.re.kr"
   location = "Seoul, Korea"
   date_start = "2013-05-01"
   date_end = "2020-02-28"
   description = """
-  #### Electron Microscope Team, Advanced Analysis Center  
+  ##### Electron Microscope Team, Advanced Analysis Center
+  ##### (P.I.: Dr. Jae-Pyoung Ahn and Prof. Jae-Chul Lee)
   
   * Studied various TEM functions and analytical techniques 
   * Developed an airtight sample transfer system to characterize air-sensitive materials 
