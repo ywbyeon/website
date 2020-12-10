@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-03-10"
   date_end = ""
   description = """
-  ## Haegyum Kim Group, Materials Sciences Division
+  ### Haegyum Kim Group, Materials Sciences Division
  
   * Analyzed on the electrochemical and structural properties of buried interphase compounds between Li metal and sulfide SSEs
   * Synthesized and Characterized catalyst supporting materials for PEMFC
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2013-05-01"
   date_end = "2020-02-28"
   description = """
-  ## Electron Microscope Team, Advanced Analysis Center  
+  ### Electron Microscope Team, Advanced Analysis Center  
   
   * Studied various TEM functions and analytical techniques 
   * Developed an airtight sample transfer system to characterize air-sensitive materials 
