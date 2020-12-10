@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   ## Haegyum Kim Group, Materials Sciences Division
  
-  * Analyze on the electrochemical and structural properties of buried interphase compounds between Li metal and sulfide SSEs
-  * Synthesize and Characterize catalyst supporting materials for PEMFC
-  * Advanced analysis of the battery materials using electron microscopy (FIB, TEM)
+  * Analyzed on the electrochemical and structural properties of buried interphase compounds between Li metal and sulfide SSEs
+  * Synthesized and Characterized catalyst supporting materials for PEMFC
+  * Investigated various battery materials using advanced analysis techniques (XRD, SEM, FIB, and TEM)
   """
 
 [[experience]]
