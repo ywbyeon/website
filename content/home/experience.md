@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "In my career,"
+subtitle = "A highly motivated and innovative postdoc with consolidated expertise in material characterization based on electron microscopies (EM), I have been focused on investigating degradation phenomenon of cathode/anode/solid-state electrolyte materials of battery systems."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
