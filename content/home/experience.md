@@ -45,4 +45,27 @@ date_format = "Jan 2006"
   * Pioneered the correlative analysis of battery electrode materials by using various analytical instruments (XRD, XPS, SEM, TEM, EDS, EELS, and APT) 
   * Observed the formation and growth behavior of SEI layer during fast charging/discharging"""
 
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Korea University"
+  company_url = "https://mse.korea.ac.kr"
+  location = "Seoul, Korea"
+  date_start = "2014-03-01"
+  date_end = "2017-12-31"
+  description = """##### Department of Materials Science and Engineering
+  
+  * Course offering: Engineering Mathematics II (2017); Mechanical Properties of Materials (2015); Metallic Material Processing (2014); Engineering Mathematics I (2014)"""
+  
+[[experience]]
+  title = "Sergeant (honorable discharged)"
+  company = "Republic of Korea Air Force"
+  company_url = "http://www.airforce.mil.kr:8081/user/indexMain.action?siteId=airforce-eng"
+  location = "Jinju, Korea"
+  date_start = "2009-03-09"
+  date_end = "2011-04-09"
+  description = """##### Air Force Education & Training Command
+  
+  * Course offering: Produced e-learning contents for aircraft maintenance and air-traffic control"""
+
+
 +++
