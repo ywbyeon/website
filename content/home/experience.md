@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "California, USA"
   date_start = "2020-03-10"
   date_end = ""
-  description = """##### Haegyum Kim Group, Materials Sciences Division<br>(P.I.: Dr. Haegyum Kim and Dr. Peter Ercius)
+  description = """Haegyum Kim Group, Materials Sciences Division<br>(P.I.: Dr. Haegyum Kim and Dr. Peter Ercius)
  
   * Analyzed on the electrochemical and structural properties of buried interphase compounds between Li metal and sulfide SSEs
   * Synthesized and Characterized catalyst supporting materials for PEMFC
